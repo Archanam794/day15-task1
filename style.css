@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(rgb(222, 140, 140),rgb(121, 175, 121));
+    display: grid;
+    place-items: center;
+    height: 100%;
+  }
+  #title{
+    text-align:center;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+  td {
+    padding: 5px;
+    text-align: left;
+    width: 300px;
+  }
+   
+  
+  /* th {
+    width: 10px;
+  } */
+ 
+  
